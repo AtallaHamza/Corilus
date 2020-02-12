@@ -1,0 +1,16 @@
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\AtallahHamza_Corilus.deps.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\AtallahHamza_Corilus.runtimeconfig.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\AtallahHamza_Corilus.runtimeconfig.dev.json
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\AtallahHamza_Corilus.dll
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\bin\Debug\netcoreapp2.1\AtallahHamza_Corilus.pdb
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.csprojAssemblyReference.cache
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.RazorAssemblyInfo.cache
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.RazorAssemblyInfo.cs
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.AssemblyInfoInputs.cache
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.AssemblyInfo.cs
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.RazorTargetAssemblyInfo.cache
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.dll
+C:\Users\h.atallah\source\repos\AtallahHamza_Corilus\obj\Debug\netcoreapp2.1\AtallahHamza_Corilus.pdb
